@@ -1,0 +1,6 @@
+module Pods_Airanb_AiranbTests {
+  umbrella header "Pods-Airanb-AiranbTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
